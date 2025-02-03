@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: using an undefined variable. The `bug.hs` file contains the erroneous code, while `bugSolution.hs` provides the corrected version.  Understanding how to handle undefined values is crucial for writing robust Haskell programs.
